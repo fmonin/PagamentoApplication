@@ -145,6 +145,9 @@ target/site/jacoco/index.html
 ```bash
 docker run -d -p 27017:27017 --name mongo mongo
 ```
+**Subindo a aplicação:**
+
+```bash 
 
 Ou via `docker-compose.yml` (adicione se necessário).
 
@@ -158,6 +161,7 @@ Ou via `docker-compose.yml` (adicione se necessário).
 
 ```bash
 mvn spring-boot:run
+docker pull 1moninfernando/toy-store-apppag
 ```
 
 A API ficará disponível em:
