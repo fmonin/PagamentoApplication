@@ -38,4 +38,8 @@ public class Pagamento {
 
     public Pagamento(String number, String id, BigDecimal bigDecimal, String s, String aprovado) {
     }
+
+    public Pagamento() {
+        // necessário para o Spring Data Mongo
+    }
 }

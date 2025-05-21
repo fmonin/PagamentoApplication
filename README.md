@@ -17,6 +17,12 @@ Este projeto é uma API REST desenvolvida com Spring Boot, MongoDB e testes com 
 - Docker / Docker Compose
 
 ---
+## SWAGGER
+A documentação da API está disponível em:
+
+```http://localhost:8080/swagger-ui/index.html
+```
+![img_1.png](img_1.png)
 
 ## Funcionalidades
 

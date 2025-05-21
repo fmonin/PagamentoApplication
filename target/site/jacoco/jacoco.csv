@@ -1,5 +1,5 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Pagamento Service,br.com.fiap.pagamento.model,Pagamento,3,28,0,2,2,7,1,2,1,1
+Pagamento Service,br.com.fiap.pagamento.model,Pagamento,6,28,0,2,4,7,2,2,2,1
 Pagamento Service,br.com.fiap.pagamento.config,MongoConfig,3,0,0,0,1,0,1,0,1,0
 Pagamento Service,br.com.fiap.pagamento.dto,PagamentoRequest,3,3,0,0,2,2,1,1,1,1
 Pagamento Service,br.com.fiap.pagamento.dto,PagamentoResponse,0,3,0,0,0,1,0,1,0,1
