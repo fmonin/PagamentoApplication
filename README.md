@@ -147,13 +147,9 @@ docker run -d -p 27017:27017 --name mongo mongo
 ```
 **Subindo a aplicação:**
 
-```bash 
-
 Ou via `docker-compose.yml` (adicione se necessário).
 
----
-
-## Como rodar localmente
+**Como rodar localmente:**
 
 1. Instale o Java 21+ e o Maven
 2. Rode o MongoDB local ou via Docker
