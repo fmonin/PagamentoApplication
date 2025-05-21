@@ -1,0 +1,4 @@
+br\com\fiap\pagamento\PagamentoControllerTest.class
+br\com\fiap\pagamento\PagamentoServiceTesteIntegrado.class
+br\com\fiap\pagamento\PagamentoServiceTest.class
+br\com\fiap\pagamento\PagamentoMapperTest.class

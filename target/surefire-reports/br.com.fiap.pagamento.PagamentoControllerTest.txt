@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.fiap.pagamento.PagamentoControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.401 s -- in br.com.fiap.pagamento.PagamentoControllerTest

@@ -1,0 +1,10 @@
+br\com\fiap\pagamento\controller\PagamentoController.class
+br\com\fiap\pagamento\repository\PagamentoRepository.class
+br\com\fiap\pagamento\PagamentoApplication.class
+br\com\fiap\pagamento\dto\PagamentoResponse.class
+br\com\fiap\pagamento\mapper\PagamentoMapper.class
+br\com\fiap\pagamento\exception\PagamentoNotFoundException.class
+br\com\fiap\pagamento\config\MongoConfig.class
+br\com\fiap\pagamento\dto\PagamentoRequest.class
+br\com\fiap\pagamento\services\PagamentoService.class
+br\com\fiap\pagamento\model\Pagamento.class
